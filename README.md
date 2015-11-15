@@ -2,6 +2,10 @@
 
 micro-js is a collection of tiny utility modules for javascript. This repository is not a bundle - bundles are contrary to the philosophy of micro-js, which is that your codebase should include exactly the things you need and nothing more.
 
+## Modules
+
+The list of available micro-js modules is [here](https://github.com/micro-js).
+
 ## Design goals
 
 micro-js modules should:
