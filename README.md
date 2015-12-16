@@ -18,9 +18,6 @@ micro-js modules should:
 
 ## Installation
 
-All micro-js modules have simple names, almost all of which are taken on npm. To avoid having to come up with silly names for things, at the moment you must install all micro-js modules as github dependencies.
+All micro-js modules have simple names, and are scoped @f.
 
-E.g. `npm install micro-js/map` -> `var map = require('map')`
-
-This is a little confusing, so in the future we may switch to using scoped modules under @f, but for now this is how it is.
-
+E.g. `npm install @f/map` -> `var map = require('@f/map')`
