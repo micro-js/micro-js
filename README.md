@@ -22,5 +22,5 @@ All micro-js modules have simple names, almost all of which are taken on npm. To
 
 E.g. `npm install micro-js/map` -> `var map = require('map')`
 
-This is a little confusing, so in the future we may switch to using scoped modules under @micro-js, but for now this is how it is.
+This is a little confusing, so in the future we may switch to using scoped modules under @f, but for now this is how it is.
 
